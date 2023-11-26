@@ -1,0 +1,26 @@
+.btn {
+    min-width: 100px;
+    min-height: 100px;
+}
+
+.navbot {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.agendar {
+    min-width: 100px;
+    min-height: 100px;
+    display: "flex";
+    align-items: "center",
+}
+.maxHimg {
+    margin: auto;
+    width: auto;
+    max-height: 100px;
+}
+.slide {
+    height: 450px;
+    overflow: hidden;
+}
